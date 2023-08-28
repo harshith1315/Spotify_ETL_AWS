@@ -1,2 +1,3 @@
 # Spotify_ETL_AWS
-![WhatsApp Image 2023-07-20 at 10 37 05 PM](https://github.com/harshith1315/Spotify_ETL_AWS/assets/111886682/6fc6de7f-062d-4513-8182-05a3219a940c)
+![image](https://github.com/harshith1315/Spotify_ETL_AWS/assets/111886682/8b12b22b-2614-4b2d-b438-60dfeb8c9ec2)
+
